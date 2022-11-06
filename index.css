@@ -8,7 +8,7 @@
   
   .background {
     margin: 0;
-    background-image: url("images/bgimage.jpg");
+    background-image: url("bgimage.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: height;
